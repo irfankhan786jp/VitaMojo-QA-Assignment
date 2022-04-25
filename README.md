@@ -3,8 +3,8 @@
 Vita Mojo QA Assignment(2-3 hours) 
 
 
-The goal of this assignment is to showcase your ability to develop automation scripts and your coding style.
-Even though the task is small, one can easily spend a few days working on it: perfecting design principles, testing every single scenario, or carefully crafting every single line of code. Please don't! Do as much as you can in about 2-3 hours and share the results.
+The goal of this assignment is to showcase your ability to develop automation scripts and your coding style.\
+Even though the task is small, one can easily spend a few days working on it: perfecting design principles, testing every single scenario, or carefully crafting every single line of code. Please don't! Do as much as you can in about 2-3 hours and share the results.\
 The most important part of the interview will come after this one, when we look at the test together, talk about the decisions you have made, etc...
 
 1. Web automation: 
